@@ -43,13 +43,6 @@ class URLChecker(object):
     
 if __name__ == '__main__':
     pass
-else:
-    url_checker = URLChecker()
-    
-    
-    
-if __name__ == '__main__':
-    pass
 
 else:
     url_checker = URLChecker()
